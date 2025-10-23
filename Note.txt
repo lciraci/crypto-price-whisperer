@@ -1,0 +1,4 @@
+Crypto price whisperer
+API: CoinGecko (no key)
+Endpoint: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd
+ggf
