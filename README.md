@@ -44,7 +44,9 @@ The workflow fetches market prices, evaluates social mood, explains price trends
 
 ## 🔄 Workflow
 
-![Workflow](./images/workflow.png)
+<p align="center">
+  <img src="./images/workflow.png" alt="Workflow" width="700"/>
+</p>
 
 1. **Fetch Price** – Get real-time data from CoinGecko.  
 2. **Fetch Tweets** – Retrieve recent Twitter discussions about the same crypto.  
