@@ -44,6 +44,8 @@ The workflow fetches market prices, evaluates social mood, explains price trends
 
 ## 🔄 Workflow
 
+![Workflow](./images/workflow.png)
+
 1. **Fetch Price** – Get real-time data from CoinGecko.  
 2. **Fetch Tweets** – Retrieve recent Twitter discussions about the same crypto.  
 3. **Analyze Sentiment** – Use the Analyze-Reason agent to evaluate mood and possible causes for price shifts.  
@@ -82,3 +84,13 @@ The workflow fetches market prices, evaluates social mood, explains price trends
 ```bash
 git clone https://github.com/lciraci/crypto-price-whisperer.git
 cd crypto-price-whisperer
+
+### 2. run Mastra AI
+```bash
+npm run dev
+
+---
+
+## Mastra Workflow
+
+![Mastra Workflow](./images/mastra_workflow.png)
