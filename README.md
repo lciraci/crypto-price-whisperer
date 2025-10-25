@@ -84,13 +84,17 @@ The workflow fetches market prices, evaluates social mood, explains price trends
 ```bash
 git clone https://github.com/lciraci/crypto-price-whisperer.git
 cd crypto-price-whisperer
+```
 
-### 2. run Mastra AI
+### 2. Run Mastra AI
 ```bash
+npm install
 npm run dev
-
+```
 ---
 
-## Mastra Workflow
+## 🧠 Mastra Workflow
 
-![Mastra Workflow](./images/mastra_workflow.png)
+<p align="center">
+  <img src="./images/mastra_workflow.png" alt="Mastra Workflow Diagram" width="700"/>
+</p>
