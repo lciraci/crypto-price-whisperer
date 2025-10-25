@@ -98,5 +98,5 @@ npm run dev
 ## 🧠 Mastra Workflow
 
 <p align="center">
-  <img src="./images/mastra_workflow.png" alt="Mastra Workflow Diagram" width="700"/>
+  <img src="./images/mastra_workflow.jpg" alt="Mastra Workflow Diagram" width="700"/>
 </p>
