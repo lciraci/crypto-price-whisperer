@@ -100,3 +100,12 @@ npm run dev
 <p align="center">
   <img src="./images/mastra_workflow.jpg" alt="Mastra Workflow Diagram" width="95%" style="border-radius:10px;"/>
 </p>
+
+---
+
+## 📬 Contact
+
+If you’d like to connect or collaborate, feel free to reach out:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucio-ciraci94c/)  
+- 📧 Email: [lucio.ciraci94@gmail.com](mailto:lucio.ciraci94@gmail.com)
