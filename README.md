@@ -109,3 +109,5 @@ If you’d like to connect or collaborate, feel free to reach out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucio-ciraci94c/)  
 - 📧 Email: [lucio.ciraci94@gmail.com](mailto:lucio.ciraci94@gmail.com)
+- 🎥 [YouTube](https://www.youtube.com/watch?v=b7_seYhVDO8)
+
